@@ -1,0 +1,7 @@
+.gallery {
+  justify-content: space-between;
+  display: flex;
+  width: 75%;
+  margin: auto;
+  margin-top: 220px;
+}
